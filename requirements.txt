@@ -1,0 +1,13 @@
+numpy>=1.24
+opencv-python-headless>=4.8
+pillow>=10.0
+pytesseract>=0.3.10
+scikit-learn>=1.3
+torch>=2.1
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+streamlit>=1.32
+pytest>=8.0
+ruff>=0.3
+# optional second OCR engine (heavy download): pip install easyocr
